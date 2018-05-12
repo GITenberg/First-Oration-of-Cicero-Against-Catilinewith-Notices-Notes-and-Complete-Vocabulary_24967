@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/128
     wikipedia: http://en.wikipedia.org/wiki/Cicero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24967#First-Oration-of-Cicero-Against-Catilinewith-Notices-Notes-and-Complete-Vocabulary
 gutenberg_issued: '2008-03-31'
 gutenberg_type: Text
 identifiers:
